@@ -1,0 +1,93 @@
+CYBERDUDEBIVASH® LICENSE
+Version 1.0 – Production Grade – All Rights Reserved
+Effective Date: January 28, 2026
+Copyright © 2026 CyberDudeBivash Pvt. Ltd. – Bhubaneswar, Odisha, India
+
+All CYBERDUDEBIVASH® production-grade applications, tools, scripts, frameworks,
+dashboards, scanners, utilities, and any other software artifacts generated or
+distributed under the CYBERDUDEBIVASH® brand (collectively referred to as the
+“Software”) are governed by the following license terms.
+
+1. Grant of License
+Subject to your strict compliance with all terms of this License,
+CyberDudeBivash Pvt. Ltd. grants you a limited, non-exclusive,
+non-transferable, revocable, worldwide license to:
+
+- Use the Software for internal business, security operations, research,
+  testing, detection engineering, threat hunting, incident response,
+  training, or personal cybersecurity purposes
+- Modify the Software solely for your own internal use
+- Integrate the Software into your own security pipelines, SOC workflows,
+  automation systems, or research environments
+- Distribute unmodified copies of the Software only as part of your internal
+  documentation, training materials, or security reports (with clear
+  attribution to CYBERDUDEBIVASH®)
+
+2. Restrictions
+You may NOT:
+
+- Remove, alter, obscure, or suppress any copyright, trademark, brand notice,
+  watermark, license header, or attribution present in the Software
+- Use the name “CYBERDUDEBIVASH”, “CyberDudeBivash”, or any confusingly
+  similar name, logo, or branding for commercial products, services, or
+  offerings without explicit written permission
+- Sell, rent, lease, sublicense, lend, or otherwise commercially exploit the
+  Software or any derivative work
+- Distribute modified versions publicly (GitHub, GitLab, forums, blogs, etc.)
+  without prior written approval from CyberDudeBivash Pvt. Ltd.
+- Use the Software in any manner that competes directly with CYBERDUDEBIVASH®
+  commercial offerings, training programs, premium tools, licensing models,
+  or enterprise services
+- Reverse-engineer, decompile, disassemble, or attempt to derive source code
+  (beyond what is already open in the official repositories) for purposes
+  other than permitted internal use
+- Use the Software in any illegal, malicious, harmful, or unethical activity
+  (including offensive security operations without explicit authorization)
+
+3. Attribution Requirement
+Whenever the Software (or any portion thereof) is used, displayed, referenced,
+or included in reports, presentations, blog posts, training materials, tools
+lists, threat intelligence products, or any public or internal documentation,
+you must include the following visible attribution (or a reasonable variant):
+
+“Powered by CYBERDUDEBIVASH® – cyberdudebivash.github.io | © 2026 CyberDudeBivash Pvt. Ltd.”
+
+Links to https://www.cyberdudebivash.com or https://github.com/cyberdudebivash
+are strongly encouraged.
+
+4. Commercial & Premium Use
+Any use of the Software in a commercial product, SaaS offering, managed
+security service, consulting deliverable, paid training course, or enterprise
+resale requires a separate CYBERDUDEBIVASH® Commercial License or Enterprise
+Deployment Agreement.
+
+Contact: iambivash@cyberdudebivash.com
+
+5. No Warranty – AS IS
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, OR ACCURACY OF
+RESULTS.
+
+IN NO EVENT SHALL CYBERDUDEBIVASH PVT. LTD. BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT
+OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+6. Termination
+This License terminates automatically if you breach any term. Upon termination,
+you must immediately cease all use and destroy all copies of the Software in
+your possession.
+
+7. Governing Law
+This License is governed by the laws of India. Any disputes shall be subject to
+the exclusive jurisdiction of the courts in Bhubaneswar, Odisha.
+
+8. Acceptance
+By using, downloading, executing, modifying, or distributing any CYBERDUDEBIVASH®
+Software, you agree to be bound by the terms of this License.
+
+CYBERDUDEBIVASH®
+Global Cybersecurity Tools, Apps, Services, Automation & R&D Platform
+Bhubaneswar, Odisha, India | © 2026 CyberDudeBivash Pvt. Ltd.
+www.cyberdudebivash.com
